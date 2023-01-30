@@ -7,7 +7,7 @@ const enteredPassword = prompt('Введите пароль');
     alert("Пароль введен верно");
  }
  else {
-  alert("Пароль введен неправильно")
+  alert("Пароль введен неправильно") 
  }
 */
 
@@ -15,7 +15,7 @@ const enteredPassword = prompt('Введите пароль');
 
 /*
 const c = prompt('Введите чиcло от 0 до 10');
-const result = Number(c > 0 && c < 10) ? 'Верно': 'Неверно';
+const result =(c > 0 && c < 10) ? 'Верно': 'Неверно';
 console.log(result);
 */
 
